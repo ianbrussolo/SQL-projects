@@ -1,9 +1,9 @@
-Este projeto foi o design do ZERO da minha primeira database PostgreSQL, onde criei o schema de uma base de dados bem básica e fictícia da minha universidade, com disciplinas, alunos e professores.
+This project was the design of my first PostgreSQL database from scratch, where I created the schema of a very basic and fictitious database of my university, with disciplines, students and professors.
 
-O schema foi feito em dbdiagram.io.
+The schema was made in dbdiagram.io.
 
-A base de dados foi criada com 4 tabelas, muito simples com poucas colunas e informações, onde as utilizei para praticar algumas consultas e manipulações simples que podem ser encontradas no arquivo queries.sql.
+The database was created with 4 very simple tables, with few columns and information, where I used them to practice some queries and simple manipulations that can be found in the queries.sql file.
 
-Após a criação da BD, busquei aprender como manipulá-la utilizando Python, já que é a linguagem que estou aprendendo no momento.
+After creating the DB, I tried to learn how to manipulate it using Python, since that's the language I'm learning at the moment.
 
-O resultado foi o arquivo manipulations.py, onde criei métodos para incluir/excluir/alterar registros, e também consultar.
+The result was the manipulations.py file, where I created methods to include/exclude/change records, and also personalized query.
